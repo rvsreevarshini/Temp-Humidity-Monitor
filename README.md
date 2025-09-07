@@ -19,7 +19,7 @@ See `temp_humidity_monitor.ino`
 
 ## ▶️ Simulation Link
 Try the project online using Wokwi:  
-👉 [Open Simulation]()
+👉 [Open Simulation](https://wokwi.com/projects/441407484547856385)
 
 ## Output
 - LCD shows temperature in °C and humidity in %.
