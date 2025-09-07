@@ -12,7 +12,7 @@ and displays values on a 16x2 LCD with I2C.
 - Jumper Wires
 
 ## Circuit Diagram
-![Circuit]()
+![Circuit](IMG_20250907_095022.jpg)
 
 ## Code
 See `temp_humidity_monitor.ino`
