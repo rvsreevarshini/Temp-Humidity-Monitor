@@ -17,5 +17,9 @@ and displays values on a 16x2 LCD with I2C.
 ## Code
 See `temp_humidity_monitor.ino`
 
+## ▶️ Simulation Link
+Try the project online using Wokwi:  
+👉 [Open Simulation]()
+
 ## Output
 - LCD shows temperature in °C and humidity in %.
